@@ -1,0 +1,70 @@
+*{margin:0;
+ padding:0px;
+ box-sizing:border-box;}
+body {
+   background-color:rgb(190,189,189);
+}
+.container{
+	width: 310px;
+	height: 460px;
+	text-align: center;
+	border-radius:10px;
+	background-color:white;
+}
+.para:hover{
+	color:orange;
+}
+.para:active{
+	padding:10px;
+}
+.img-div img{
+	width:250px;
+	height:240px;
+	margin-top:20px;
+	border-radius:70px;
+}
+.img-div {
+	background-color:#222424;
+	height:260px;
+}
+.para{
+	font-size:13px;
+	color:black;
+}
+.java{
+	width:180px;
+	height:40px;
+	background-color:#3014e3;
+	border-radius:4px;
+	color:white;
+	font-size:25px;
+	border:none;
+}
+.icon{
+	font-size: 30px;
+	margin:30px;
+}
+.Facebook:hover{
+	color:#1616b8;
+}
+.instagram:hover{
+	color:#ff3838;
+}
+.whatsapp:hover{
+	color:#33db09;
+}
+.Youtube:hover{
+	color:red;
+}
+.java:hover{
+	color:#f00528;
+}
+.img-div img:active{
+	padding:50px;
+}
+.h1:active{
+	padding:20px;
+	width:310px;
+	height:20px;
+	background-color:pink;
+}
